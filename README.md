@@ -36,7 +36,9 @@ Hi, I’m Lennart
 ## Social
 <div>
   Mail: Lennart.maack@tuhh.de
-  [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;](https://www.linkedin.com/in/lennart-maack/)
+</div>
+<div>
+  [![Image name](./linkedin-original.svg)](https://www.linkedin.com/in/lennart-maack/)
 </div>
 <!---
 Lennart-Ma/Lennart-Ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
