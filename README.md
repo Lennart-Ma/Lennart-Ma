@@ -13,7 +13,7 @@ Hi, I’m Lennart
 - Let's change the world for the better
 
 
-## Coding
+## Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,12 +34,13 @@ Hi, I’m Lennart
 </div>
 
 ## Social
+
+[<img src="linkedin-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>](https://www.linkedin.com/in/lennart-maack/)
+
 <div>
   Mail: Lennart.maack@tuhh.de
 </div>
-<div>
-  [![Image name](./linkedin-original.svg)](https://www.linkedin.com/in/lennart-maack/)
-</div>
+
 <!---
 Lennart-Ma/Lennart-Ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
