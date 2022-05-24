@@ -4,8 +4,7 @@ Hi, I’m Lennart
 ## About Me:
 
 - Currently a Master's student at TUHH in the field of Mechatronics, Intelligent Systems and Robotics
-- Interested in the broad field of AI --> Deep Learning --> Computer Vision --> Medical Image Analysis
-  - Especially interested in data-centric AI
+- Very inquisitive in the broad field of AI (Deep Learning/Computer Vision/Data-centric AI/Explainable AI/Graph Neural Networks)
 - Furthermore, I like to build things
   - See CoVision & SkinDiseaseApp for my latest projects
   - Always open to contribute to new interesting projects    
